@@ -1,0 +1,41 @@
+body {
+  width: 500px;
+  margin: 0 auto;
+}
+
+a {
+  color: green;
+}
+
+p {
+  margin-top: 36px;
+  margin-bottom: 36px;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
+td {
+  background-color: red;
+}
+
+.biggerAndBolder {
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 20px 60px;
+}
